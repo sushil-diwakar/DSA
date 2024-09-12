@@ -1,8 +1,7 @@
-
 #include <bits/stdc++.h>
 using namespace std;
 
-//Preparing Pre-Fix sum arrayy
+//Preparing Pre-Fix sum array
 vector<int> computePrefixSum(vector<int>& nums) {
     int n = nums.size();
     int sum;
