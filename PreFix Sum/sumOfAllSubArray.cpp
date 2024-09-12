@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//Preparing Pre-Fix sum array
+//Preparing Pre-Fix sum arrayy
 vector<int> computePrefixSum(vector<int>& nums) {
     int n = nums.size();
     int sum;
